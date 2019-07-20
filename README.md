@@ -10,4 +10,4 @@
 ### Documentation
 - [PatentView Class](/docs/patentview/app.md)
     - [model/Model](/docs/patentview/model/model.md)
-    - [helpers/Utilities](/docs/helpers/utilities.md)
+    - [helpers/Utilities](/docs/patentview/helpers/utilities.md)
